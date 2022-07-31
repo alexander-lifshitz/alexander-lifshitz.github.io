@@ -1,5 +1,10 @@
-.git
+.jekyll-cache/
+.sass-cache/
+.jekyll-metadata
 
-.project
+.bundle/
+vendor/
 
-/.idea/*
+_site/
+
+.idea/
