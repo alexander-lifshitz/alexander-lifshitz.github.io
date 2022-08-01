@@ -1,6 +1,7 @@
 ---
 title: По пути в Израиль
-description: РОМАНЫ
+description: По пути в Израиль
+parent: РОМАНЫ
 nav_order: 2
 has_children: true
 ---
