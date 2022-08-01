@@ -1,6 +1,7 @@
 ---
-title: About
+title: Произведения
 description: On Jekyll, GH Actions, and a theme with this template
+nav_order: 2
 ---
 
 ## Using a recent Jekyll version

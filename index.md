@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Автор
 layout: default
 nav_order: 1
 ---
