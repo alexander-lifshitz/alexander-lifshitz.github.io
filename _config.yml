@@ -23,7 +23,4 @@ exclude:
   - sample.png
   - README.md
 
-### Theme settings
 
-aux_links:
-  "View source": "https://github.com/MichaelCurrin/jekyll-gh-actions-quickstart"

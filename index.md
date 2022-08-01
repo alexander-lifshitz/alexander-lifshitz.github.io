@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-Welcome to **Jekyll GH Actions Quickstart** project - a template, demo and tutorial.
+Официальный сайт **Alexandr Lifshitz**
 
 This site acts a demo of a site build with Jekyll 4, GitHub Actions and the [just-the-docs](https://just-the-docs.github.io/just-the-docs/) Jekyll theme.
 
