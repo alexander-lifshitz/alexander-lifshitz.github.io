@@ -2,6 +2,7 @@
 layout: default
 title:  Глава 1. Увольнение
 parent: По пути в Израиль
+grand_parent: РОМАНЫ
 description: По пути в Израиль - Глава 1 - Увольнение
 nav_order: 1
 ---
