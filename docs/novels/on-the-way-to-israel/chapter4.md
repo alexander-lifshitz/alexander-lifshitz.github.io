@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Глава 4. ЧПУ
+title: ЧПУ
 description: По пути в Израиль - Глава 4 - ЧПУ
 parent: По пути в Израиль
 grand_parent: РОМАНЫ

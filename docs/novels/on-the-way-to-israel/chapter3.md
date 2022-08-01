@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Глава 3. Последние сборы
+title: Последние сборы
 description: По пути в Израиль - Глава 3 - Последние сборы
 parent: По пути в Израиль
 grand_parent: РОМАНЫ

@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Глава 5. Жизнь c инфарктом
+title: Жизнь c инфарктом
 description: По пути в Израиль - Глава 5 - Жизнь c инфарктом
 parent: По пути в Израиль
 grand_parent: РОМАНЫ
