@@ -2,6 +2,7 @@
 
 title: Официальный сайт Александра Лифшица
 description: Starter template for a Jekyll 4 site - deployed with GH Actions and GH Pages
+logo: "/assets/images/logo.png"
 
 ### Build settings
 
@@ -23,4 +24,4 @@ exclude:
   - sample.png
   - README.md
 
-
+search_enabled: false
