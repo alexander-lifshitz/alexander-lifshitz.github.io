@@ -1,5 +1,5 @@
 ---
-title: Автор
+title: АВТОР
 layout: default
 nav_order: 1
 ---
