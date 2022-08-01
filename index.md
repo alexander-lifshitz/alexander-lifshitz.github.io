@@ -1,6 +1,6 @@
 ---
-title: АВТОР
 layout: default
+title: АВТОР
 nav_order: 1
 ---
 

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: РОМАНЫ
 description: РОМАНЫ
 nav_order: 2
