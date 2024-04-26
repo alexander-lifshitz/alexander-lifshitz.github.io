@@ -1,11 +1,11 @@
-———
+---
 layout: default
 title: Часть 2
 description: Часть 2
 parent: История одного человека, данная в отдельных воспоминаниях
 grand_parent: РОМАНЫ
 nav_order: 2
-———
+---
 
 # ВОСПОМИНАНИЕ 31
 
