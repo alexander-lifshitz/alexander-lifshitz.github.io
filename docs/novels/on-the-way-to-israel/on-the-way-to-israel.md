@@ -3,7 +3,7 @@ layout: default
 title: По пути в Израиль
 description: По пути в Израиль
 parent: РОМАНЫ
-nav_order: 2
+nav_order: 3
 has_children: true
 ---
 
